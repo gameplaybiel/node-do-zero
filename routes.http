@@ -21,4 +21,4 @@ Content-Type: application/json
 }
 
 ###
-DELETE https://node-do-zero-lfb0.onrender.com//videos/1be17bb4-2a3a-45b1-a89b-f50e18c44d7c
+DELETE https://node-do-zero-lfb0.onrender.com/videos/1be17bb4-2a3a-45b1-a89b-f50e18c44d7c
